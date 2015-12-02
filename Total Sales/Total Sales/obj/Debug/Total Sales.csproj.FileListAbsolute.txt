@@ -1,0 +1,9 @@
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\bin\Debug\Total Sales.exe.config
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\obj\Debug\Total Sales.csprojResolveAssemblyReference.cache
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\obj\Debug\Total_Sales.Form1.resources
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\obj\Debug\Total_Sales.Properties.Resources.resources
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\obj\Debug\Total Sales.csproj.GenerateResource.Cache
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\obj\Debug\Total Sales.exe
+c:\users\nick aldrich\documents\visual studio 2012\Projects\Total Sales\Total Sales\obj\Debug\Total Sales.pdb
